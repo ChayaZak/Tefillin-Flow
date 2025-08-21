@@ -10,7 +10,7 @@ This project provides a digital platform for Chabad Tefen to manage their tefill
 - **Public Portal:** Next.js TypeScript application (Tailwind CSS)
 - **ETL Package:** Integration services for external APIs
 - **Database:** Supabase PostgreSQL
-- **Integrations:** Google Auth, Google Drive, Google Calendar, Meshulam payments
+- **Integrations:** Google Auth, Google Drive, Meshulam payments
 
 ## Architecture
 Monorepo structure with shared TypeScript types and multiple specialized packages.
